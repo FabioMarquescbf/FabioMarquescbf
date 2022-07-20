@@ -39,4 +39,6 @@
   
  ##
  
+![Snake animation](https://github.com/FabioMarquescbf/FabioMarquescbf/blob/output/github-contribution-grid-snake.svg)
+ 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
