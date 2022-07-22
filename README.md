@@ -1,13 +1,15 @@
 ### Olá Todos!👋 Sou [Fábio Marques!](https://github.com/FabioMarquescbf)😄
 <br>
 
-<a href="https://www.linkedin.com/in/fábio-marques-038a95243/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
+Meios de Comunicação 👇
 
 <a href="https://github.com/FabioMarquescbf">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /
  </a>
+ 
+ <a href="https://www.linkedin.com/in/fábio-marques-038a95243/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
  
  <a href = "mailto:fabiomarquescbf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
