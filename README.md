@@ -1,7 +1,7 @@
 ### Olá Todos!👋 Chamo-me [Fábio Marques!](https://github.com/FabioMarquescbf)😄
 <br>
 
-Meios de Comunicação 👇
+Links para Meios de Comunicação 👇
 
 <a href="https://github.com/FabioMarquescbf">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /
