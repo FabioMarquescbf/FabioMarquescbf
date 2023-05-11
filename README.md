@@ -1,4 +1,4 @@
-### Olá Todos!👋 Chamo-me [Fábio Marques!](https://github.com/FabioMarquescbf)😄
+### Olá Todos!👋 Sou [Fábio Marques!](https://github.com/FabioMarquescbf)😄
 <br>
 
 Links para Meios de Comunicação 👇
@@ -16,7 +16,7 @@ Links para Meios de Comunicação 👇
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> Estudante Autônomo e Amante da Ciência da Computação </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> Estudante Autônomo e do curso de ADS da faculdade Uninassau_Caruaru </samp></h4></p>
 
 ##
 
