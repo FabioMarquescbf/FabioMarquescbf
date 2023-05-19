@@ -1,4 +1,4 @@
-### Olá Todos!👋 Sou [Fábio Marques!](https://github.com/FabioMarquescbf)😄
+### Olá👋 Sou [Fábio Marques!](https://github.com/FabioMarquescbf)😄
 <br>
 
 Links para Meios de Comunicação 👇
